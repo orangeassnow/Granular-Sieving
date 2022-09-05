@@ -1,4 +1,4 @@
-# Code for granular sieving (GrS) method
+# Granular sieving (GrS) method
  
  This repository contains the code for granular sieving algorithm and the related benchmark functions, in the following paper:
 
