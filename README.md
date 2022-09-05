@@ -36,20 +36,12 @@
  If our paper or this repository is useful for your reseach, please cite our work as:
  
  
- @article{qian2022granular,
- 
- 	title={Granular sieving algorithm for selecting best n parameters},
-  
- 	author={Qian, Tao and Dai, Lei and Zhang, Liming and Chen, Zehua},
-  
- 	journal={Math. Methods Appl. Sci.}, 
-  
-  volume={45}, 
-   
-  number={12},
-   
-  pages={7495--7509}, 
-  
-  year={2022}
-  
+ @article{qian2022granular,  
+ title={Granular sieving algorithm for selecting best n parameters},  
+ 	author={Qian, Tao and Dai, Lei and Zhang, Liming and Chen, Zehua},   
+ 	journal={Math. Methods Appl. Sci.},  
+  volume={45},  
+  number={12},  
+  pages={7495--7509},  
+  year={2022}  
  }
