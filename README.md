@@ -1,4 +1,4 @@
-# Granular sieving (GrS) method
+# Granular sieving algorithm for selecting best n parameters
  
  This repository contains the code for granular sieving algorithm and the related benchmark functions, in the following paper:
 
